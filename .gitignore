@@ -1,0 +1,12 @@
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS & Excel temporary files
+.DS_Store
+Thumbs.db
+~$*.xlsx
+~$*.xls
